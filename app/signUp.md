@@ -3,7 +3,7 @@
 ## before starts the sign up process
 - game master should announce on site that there will be a mini game for newcomers and beginners to participant in order to win a free treat or gifts.
   - while perform the announcement, be sure to tell the user where to find game master and sign up.
-- can announce before the group photo sections
+- can announce before and after the group photo sections
 
 ## starts sign up process
 1. shows the QR CODE [g0v slack installation step-by-step guide](https://g0v.hackmd.io/fKrjZ3BlRfWmQ471wcSdBg) to user for them to finish the installation and sign up for a g0v slack account.
